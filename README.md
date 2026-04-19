@@ -33,5 +33,13 @@ El objetivo del proyecto es aplicar conceptos fundamentales de React como el uso
 5. El estado se actualiza y React re-renderiza la interfaz automáticamente
 
 ## Cómo ejecutar el proyecto
+1. Copiar el repositorio: 
+2. Entrar a la carpeta: cd ipg-primera-app
+3. Instalar dependencias: npm install
+4. Ejecutar la aplicación: npm run dev
+5. Abrir en el navegador: http://localhost:5173
 
-1. Clonar el repositorio:
+
+## Autor: Ivan Barra Molina
+Proyecto desarrollado como parte de la asignatura de Programación Frontend para la
+Carrera Ingeniería en Ciencia de Datos del Instituto Profesional IPG.
